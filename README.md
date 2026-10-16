@@ -72,3 +72,13 @@ A：按稀有度汇率计算，越稀有越值钱（普通2K/稀有4K/珍贵10K/
 ## 模块问题交流
 
 QQ群：573485890
+
+---
+
+## 许可证
+
+本项目以 **GNU General Public License v3.0** 发布。
+
+Copyright (C) 2026 cn_xc
+
+完整条款见仓库根目录 [LICENSE](LICENSE)。
