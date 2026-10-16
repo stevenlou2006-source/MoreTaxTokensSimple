@@ -1,0 +1,9 @@
+{
+  "name": "MoreTaxTokensSimple",
+  "version_number": "1.7.1",
+  "website_url": "",
+  "description": "已支持至 REPO v0.4.4 版本，交流QQ群573485890，提取外观箱子时获得更多税款代币。默认 10 倍。",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
