@@ -75,6 +75,14 @@ A：按稀有度汇率计算，越稀有越值钱（普通2K/稀有4K/珍贵10K/
 
 ---
 
+<!-- donate-start -->
+## 支持作者 / Support
+
+如果这个模组对你有帮助，欢迎[扫码打赏](https://stevenlou2006-source.github.io/cn_xc-media/)——所有打赏只会用于更新与优化模组，不会有其他用途。
+
+If this mod helps you, feel free to [buy me a coffee](https://stevenlou2006-source.github.io/cn_xc-media/) via WeChat Pay. All tips are used only to update and improve my mods.
+<!-- donate-end -->
+
 ## 许可证
 
 本项目以 **GNU General Public License v3.0** 发布。
